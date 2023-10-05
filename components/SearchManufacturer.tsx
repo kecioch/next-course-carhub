@@ -68,7 +68,7 @@ const SearchManufacturer = ({
                           selected ? "font-medium" : "font-normal"
                         }`}
                       >
-                        {item} X
+                        {item}
                       </span>
                       {selected ? (
                         <span
